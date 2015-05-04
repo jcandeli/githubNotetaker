@@ -59,7 +59,6 @@ class Profile extends React.Component{
             <ScrollView style={styles.container}>
                 <Badge userInfo={userInfo} />
                 {list}
-
             </ScrollView>
         );
     };

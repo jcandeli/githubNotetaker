@@ -10,7 +10,8 @@ var styles = StyleSheet.create({
         height: 1,
         backgroundColor: '#e4e4e4',
         flex: 1,
-        marginLeft: 15
+        marginLeft: 15,
+        marginRight: 15
     }
 });
 
